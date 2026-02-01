@@ -3,6 +3,9 @@
 
 ![Views](https://komarev.com/ghpvc/?username=llap4585&repo=T5-Refiner-DomainFocus-TrainOnly&label=Project%20Views&color=blue&style=flat-square)
 
+If you like this project, give it a ⭐️ on GitHub!  
+Your support keeps the project going and motivates me to improve it. 😄
+
 > It is recommended that the data be preprocessed using the following project:  
 > [T5-Refiner-DomainFocus](https://github.com/llap4585/T5-Refiner-DomainFocus)
 >
