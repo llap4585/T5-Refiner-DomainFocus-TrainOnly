@@ -52,6 +52,7 @@ Arabic العربية, Bengali বাংলা, Russian русский, Italian 
 
 ### 📊 Evaluation
 > Without adjusting the training strategy, the model may stop training prematurely, achieving only around 60% restoration accuracy.
+> 
 > More than half of the remaining 40% fails to reach semantically coherent results.
 
 Based on preliminary testing with the mT5-base standard model:
@@ -60,6 +61,7 @@ Based on preliminary testing with the mT5-base standard model:
 
 ### 📊效果评估
 > 如果不对训练策略进行调整，模型可能会在早期阶段提前停止训练，最终只能达到约 60% 的还原率。
+> 
 > 在剩余的 40% 结果中，超过一半无法达到语义通顺的效果。
 
 根据初步测试对比，在 mT5-base 标准模型中：
@@ -68,6 +70,7 @@ Based on preliminary testing with the mT5-base standard model:
 
 ### 📊効果評価（機械翻訳）
 > 学習戦略を調整しない場合、モデルが早期に学習を停止してしまい、復元率は約 60% にとどまる可能性があります。
+> 
 > 残りの 40% のうち、半数以上は意味的に自然な結果に達しません。
 
 mT5-base標準モデルを用いた初期テストの比較：
@@ -114,7 +117,9 @@ mT5-base標準モデルを用いた初期テストの比較：
 ```
 
 > **Equipment List:**
+> 
 > GPU: NVIDIA RTX 3060 Laptop GPU (6GB)
+> 
 > Memory: 64GB DDR4 (upgraded prior to the price increase😄😆)
 
 [Introduction](#Introduction)
