@@ -114,8 +114,8 @@ mT5-base標準モデルを用いた初期テストの比較：
 ```
 
 > **Equipment List:**
->GPU: NVIDIA RTX 3060 Laptop GPU (6GB)
->Memory: 64GB DDR4 (upgraded prior to the price increase😄😆)
+> GPU: NVIDIA RTX 3060 Laptop GPU (6GB)
+> Memory: 64GB DDR4 (upgraded prior to the price increase😄😆)
 
 [Introduction](#Introduction)
 
