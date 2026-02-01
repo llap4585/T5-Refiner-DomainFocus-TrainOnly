@@ -46,6 +46,8 @@ Arabic العربية, Bengali বাংলা, Russian русский, Italian 
 
 **If you have experience in T5 or mT5**: [Requirements](#Requirements)
 
+[google-research/multilingual-t5](https://github.com/google-research/multilingual-t5)
+
 > **English:**  
 > This project provides basic training code for T5/mT5 models.  
 > Training focuses on fine-tuning a pretrained model to recover masked or corrupted text.  
