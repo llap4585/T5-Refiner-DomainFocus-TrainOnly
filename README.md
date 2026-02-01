@@ -121,6 +121,14 @@ mT5-base標準モデルを用いた初期テストの比較：
 > GPU: NVIDIA RTX 3060 Laptop GPU (6GB)
 > 
 > Memory: 64GB DDR4 (upgraded prior to the price increase😄😆)
+> 
+>Notice:
+>
+>All essential instructions are included as comments within the code.
+>
+>No separate Quickstart guide is provided.
+>
+>I hate Quickstart!
 
 [Introduction](#Introduction)
 
