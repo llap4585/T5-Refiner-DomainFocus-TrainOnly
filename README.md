@@ -20,6 +20,7 @@ Your support keeps the project going and motivates me to improve it. 😄
 ## Introduction
 [⭐️English](#english) | [⭐️中文](#chinese)
 
+*Machine translation/機械翻訳:*
 
 [日本語](#japanese) | [Deutsch](#deutsch) | [Français](#francais) | [Español](#espanol) | [हिन्दी](#hindi) | [한국어](#korean) | [Português](#portuguese)
 
