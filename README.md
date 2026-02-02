@@ -872,6 +872,7 @@ If you use this project, please cite it as:
 [Introduction](#Introduction)
 
 ---
-> **⚠️Disclaimer:** The non-English and non-Chinese versions of this documentation are provided for convenience only and were generated using machine translation. README may have been revised multiple times, and non-Chinese content may be missing. In case of any discrepancy, the Chinese version shall prevail. 
+> **⚠️Disclaimer:** The non-English and non-Chinese versions of this documentation are provided for convenience only and were generated using machine translation. README may have been revised multiple times, and non-Chinese content may be missing. In case of any discrepancy, the Chinese version shall prevail.
 
+> 忽然想起来我能调Grok API直接翻译来着，之前手动给ai翻译差点没折腾死。这玩意训练是真玄学，直接测试发现不对劲就立刻改策略了。还好以前训练yolo的时候还好遇到过类似的情况，
 
