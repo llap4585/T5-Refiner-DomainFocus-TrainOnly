@@ -4,7 +4,7 @@
 
 **One-time *quick* machine translation only, provided according to the version as of February 2, 2026**
 
-([Arabic](#Arabic) العربية, [Bengali](#Bengali) বাংলা, [Russian](#Russian) русский, [Italian](#Italian) italiano, [Dutch](#Dutch) Nederlands, [Swedish](#Swedish) svenska)
+([Arabic](#Arabic) العربية, [Bengali](#Bengali) বাংলা, [Russian](#Russian) русский, [Italian](#Italian) italiano, [Dutch](#Dutch) Nederlands, [Swedish](#svenska) svenska)
 <a name="arabic"></a>
 <div dir="rtl">
 '''
