@@ -736,6 +736,9 @@ Em tarefas do domínio médico, a escala do corpus determina diretamente o limit
 Based on preliminary testing with the mT5-base standard model:
 * **Standard Model Performance**: The restoration rate for specialized terminology is estimated to be below 60%. The remaining 40% of results are often logically incoherent and unacceptable for professional use.
 * **With DomainFocus Improvement**: The estimated restoration rate reaches 85%. Of the remaining 15% error margin, most are semantic synonyms, which greatly improves the overall readability and logical consistency of the text.
+  
+[Prerequisites](#Prerequisites) 
+[Introduction](#Introduction)
 
 ### 📊效果评估
 > 如果不对训练策略进行调整，模型可能会在早期阶段提前停止训练，最终只能达到约 60% 的还原率。
@@ -746,6 +749,9 @@ Based on preliminary testing with the mT5-base standard model:
 * **标准模型表现**：在专业领域的词汇还原率估算在 60% 以下，剩余 40% 的还原结果逻辑混乱，几乎无法被业务接受。
 * **本项目改进后**：专业词汇还原率估算达到了 85%。剩下的 15% 误差中，大部分是语义相近的词汇替代，极大地提高了文本的整体可读性和逻辑连贯性。
 
+[Prerequisites](#Prerequisites) 
+[Introduction](#Introduction)
+
 ### 📊効果評価（機械翻訳）
 > 学習戦略を調整しない場合、モデルが早期に学習を停止してしまい、復元率は約 60% にとどまる可能性があります。
 > 
@@ -754,7 +760,8 @@ Based on preliminary testing with the mT5-base standard model:
 mT5-base標準モデルを用いた初期テストの比較：
 * **標準モデルのパフォーマンス**：専門分野の語彙復元率は推定60%以下。残りの40%は論理が混乱しており、業務利用はほぼ不可能です。
 * **本プロジェクトによる改善後**：専門語彙の復元率は推定85%に達しました。残りの15%の誤差の大部分は意味の近い語彙への置換であり、テキスト全体の可読性と論理的な一貫性が大幅に向上しました。
-  
+* 
+[Prerequisites](#Prerequisites) 
 [Introduction](#Introduction)
 
 ---
@@ -788,8 +795,10 @@ mT5-base標準モデルを用いた初期テストの比較：
 
 
 ```text
-            
-                
+datasets
+transformers
+torch
+accelerate          
 ```
 
 > **Equipment List:**
