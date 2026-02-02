@@ -44,7 +44,7 @@ Arabic العربية, Bengali বাংলা, Russian русский, Italian 
 
 [Privacy](#Privacy)
 <a name="english"></a>
-# English
+# ⭐️English
 
 
 ## 📖 Background and Vision
@@ -119,7 +119,7 @@ In medical domain tasks, the corpus scale directly determines the upper limit of
 ---
 
 <a name="chinese"></a>
-# 中文
+# ⭐️中文
 
 
 ## 📖 背景与愿景
